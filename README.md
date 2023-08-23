@@ -1,16 +1,8 @@
 # heathcare_app
 
-A new Flutter project.
+"Exciting news! I've successfully completed my university training project – a groundbreaking medical care app developed with Flutter! 🎉📱⚡️ Seamlessly connect with doctors, schedule appointments effortlessly, and experience a new level of healthcare convenience. This project represents the culmination of my flutter journey 🩺💪🏼 #FlutterApp #UniversityTraining #HealthcareInnovation".
 
-## Getting Started
+included screens ( splash screen, login screen, register screen, home screen, appointment screen, messages screen, chatting screen, schedule screen, finally settings screen) 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MedicalApp2](https://github.com/Ahmeddsanad/heathcare_app/assets/100171203/6e2f1897-6d56-44f0-a5c8-05fe7d599bab)
